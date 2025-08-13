@@ -1,0 +1,11 @@
+E:\dblabs\login form\bin\Debug\login form.exe.config
+E:\dblabs\login form\bin\Debug\login form.exe
+E:\dblabs\login form\bin\Debug\login form.pdb
+E:\dblabs\login form\obj\Debug\login form.csproj.AssemblyReference.cache
+E:\dblabs\login form\obj\Debug\login_form.Form1.resources
+E:\dblabs\login form\obj\Debug\login_form.Properties.Resources.resources
+E:\dblabs\login form\obj\Debug\login form.csproj.GenerateResource.cache
+E:\dblabs\login form\obj\Debug\login form.csproj.CoreCompileInputs.cache
+E:\dblabs\login form\obj\Debug\login form.exe
+E:\dblabs\login form\obj\Debug\login form.pdb
+E:\dblabs\login form\obj\Debug\login_form.Form2.resources
